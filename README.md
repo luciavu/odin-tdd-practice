@@ -2,7 +2,7 @@
 
 The Odin Project - JavaScript Course Project 10:
 
-TTD Practice - solving exercises using Jest.
+TDD Practice - solving exercises using Jest.
 
 ## Assignment
 
